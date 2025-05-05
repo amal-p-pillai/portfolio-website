@@ -1,0 +1,9 @@
+.todo-wrapper {
+    max-width: 500px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+  .task-text {
+    font-size: 1rem;
+  }
+  
